@@ -14,7 +14,7 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_R2C_Mapping_Room_to_Chessboard_to_Unlock_LLM_As_Low-Level_CVPR_2025_paper.pdf
-    code: https://vipl-vsu.github.io/Room2Chessboard/
+    page: https://vipl-vsu.github.io/Room2Chessboard/
     image: ./assets/img/r2c_teaser.png
     notes: CCF-A
 
