@@ -18,7 +18,7 @@ I received my Ph.D. in Computer Science from the **[Institute of Computing Techn
 ## 🚀 News
 
 - **[Feb. 2025]** 📄 Our paper about embodied reasoning and planning (**R2C**) is accepted to **CVPR 2025**.
-- **[Sept. 2024]** 🏆 Honored to receive the **Wang Shouwu Scholarship** (Top-tier honor in CAS) and the **Efund Ph.D. Scholarship**.
+- **[Sept. 2024]** 🏆 Honored to receive the **Shouwu Wang Scholarship** (Top-tier honor in CAS).
 - **[Sept. 2023]** 📄 Our paper about efficient video understanding (**Glance&Focus**) is accepted to **NeurIPS 2023**.
 - **[May. 2023]** 📄 Our work on video representation learning (**HSTT**) is accepted to **IEEE TIP**.
 - **[July. 2021]** 📄 Our paper about embodied question answering (**EnvQA**) is accepted to **ICCV 2021**.
