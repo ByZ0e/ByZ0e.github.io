@@ -1,22 +1,37 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "EgoActor: Bridging Egocentric Video and Action via Multimodal Foundation Models"
+    authors: Yu Bai, MingMing Yu, Chaojie Li, <strong>Ziyi Bai</strong>, Xinlong Wang, Borje F. Karlsson
+    conference_short: arXiv
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/abs/2602.04515
+    page: https://ybai-nlp.github.io/EgoActor/
+    image: ./assets/img/egoactor_teaser.png
+    notes: Preprint
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "R2C: Robust Reasoning and Coordination for Long-Horizon Embodied Task Planning"
+    authors: <strong>Ziyi Bai</strong>, Hanxuan Li, Bin Fu, Chuyan Xiong, Ruiping Wang, Xilin Chen
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_R2C_Mapping_Room_to_Chessboard_to_Unlock_LLM_As_Low-Level_CVPR_2025_paper.pdf
+    code: https://vipl-vsu.github.io/Room2Chessboard/
+    image: ./assets/img/r2c_teaser.png
+    notes: CCF-A
+
+  - title: "Glance and Focus: A Dynamic Manner for Efficient Video Question Answering"
+    authors: <strong>Ziyi Bai</strong>, Ruiping Wang, Xilin Chen
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2401.01529
+    code: https://github.com/ByZ0e/Glance-Focus
+    image: ./assets/img/glance_focus_teaser.png
+    notes: CCF-A
+
+  - title: "HSTT: Hierarchical Spatio-Temporal Transformers for Video Representation Learning"
+    authors: <strong>Your Name</strong>, [Collaborators], Ruiping Wang*, Xilin Chen
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10418133/
+    code: https://github.com/ByZ0e/HSTT
+    image: ./assets/img/hstt_teaser.png
+    notes: CCF-A
