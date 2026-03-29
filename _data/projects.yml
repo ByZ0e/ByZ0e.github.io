@@ -1,0 +1,5 @@
+main:
+  - title: "Teleoperation with Unitree G1"
+    time: "2025"
+    overview: "Built a full-body humanoid teleoperation system..."
+    image: "/assets/img/xxx.gif"  # 这里直接放 GIF 就行
